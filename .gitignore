@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated data / models / experiment tracking (reproducible from source)
+data/
+models/
+mlruns/
+
+# Local env
+.env
+.venv/
